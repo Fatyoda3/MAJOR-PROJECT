@@ -1,0 +1,12 @@
+#interest {
+	border-radius: 2rem;
+	background: #000;
+
+	width: max-content;
+	padding: 1rem;
+	margin: 0.25rem;
+}
+#interest > span {
+	color: rgb(0, 153, 255);
+	text-align: center;
+}
